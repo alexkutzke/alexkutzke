@@ -1,4 +1,36 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+locale = 'pt-br'
+title = 'Alexander Robert Kutzke'
 theme = 'terminal'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  contentTypeName = 'posts'
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = true
+
+[languages]
+  [languages.pt-br]
+    title = 'Alexander R. Kutzke'
+    [languages.pt-br.params]
+      subtitle = 'Professor, Pesquisador — Informática Educacional'
+      keywords = 'computação, informática educacional, IA generativa, mediação do erro, UFPR'
+      menuMore = 'Mais'
+      readMore = 'Leia mais'
+      readOtherPosts = 'Outros posts'
+      [languages.pt-br.params.logo]
+        logoText = 'AK'
+        logoHomeLink = '/'
+    [languages.pt-br.menu]
+      [[languages.pt-br.menu.main]]
+        identifier = 'about'
+        name = 'Sobre'
+        url = '/about'
+      [[languages.pt-br.menu.main]]
+        identifier = 'lattes'
+        name = 'Lattes'
+        url = 'http://lattes.cnpq.br/3453803361614898'
+        weight = 1
