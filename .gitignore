@@ -1,0 +1,21 @@
+# Diretório de saída do build (site renderizado)
+/public/
+
+# Diretório de cache e recursos gerados automaticamente pelo Hugo
+/resources/_gen/
+
+# Arquivo de lock do processo de build do Hugo
+.hugo_build.lock
+
+# Arquivos de estatísticas e configuração de assets gerados por determinados temas
+hugo_stats.json
+/assets/jsconfig.json
+
+# Arquivos temporários de editores de texto e IDEs
+*~
+*.swp
+.vscode/
+
+# Arquivos temporários de sistemas operacionais
+.DS_Store
+Thumbs.db
