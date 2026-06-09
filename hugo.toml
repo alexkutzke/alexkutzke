@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://alex.kutzke.com.br/'
 locale = 'pt-br'
 title = 'Alexander Robert Kutzke'
 theme = 'terminal'
