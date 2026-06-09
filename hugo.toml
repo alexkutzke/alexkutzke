@@ -27,7 +27,7 @@ theme = 'terminal'
     [languages.pt-br.menu]
       [[languages.pt-br.menu.main]]
         identifier = 'about'
-        name = 'Sobre'
+        name = 'Sobre mim'
         url = '/about'
       [[languages.pt-br.menu.main]]
         identifier = 'lattes'
