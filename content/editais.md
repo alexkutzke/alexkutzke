@@ -22,6 +22,7 @@ Processo seletivo para **02 vagas** (bolsista ou voluntário) no projeto *"Perce
 |-----------|------|
 | 📄 Edital completo | [Acessar edital](/2026/ic/selecao/edital.html) |
 | 📢 Cartaz de divulgação | [Acessar cartaz](/2026/ic/selecao/cartaz.html) |
+| 📢 Resultado | [Acessar resultado](/2026/ic/selecao/resultado_final_ic_2026.html) |
 
 ---
 
