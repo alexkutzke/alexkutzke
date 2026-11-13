@@ -23,6 +23,8 @@ Chamada nº 2/2026 para **1 vaga** de orientação de TCC 1 (DS950) do TADS em 2
 | 📄 Chamada completa | [Acessar chamada](/2026/tcc/selecao-2027-1/chamada.html) |
 | 📄 Chamada em PDF | [Baixar PDF](/2026/tcc/selecao-2027-1/chamada.pdf) |
 | 📝 Formulário de inscrição | [Acessar formulário](https://forms.cloud.microsoft/r/sFB3DGYY9P) |
+| 📢 Resultado preliminar | [Acessar resultado](/2026/tcc/selecao-2027-1/resultado-preliminar.html) |
+| 📄 Resultado preliminar em PDF | [Baixar PDF](/2026/tcc/selecao-2027-1/resultado-preliminar.pdf) |
 
 ---
 
